@@ -1,0 +1,58 @@
+nav{
+
+    color:2f2f2f;
+    justify-content:center;
+
+}
+
+ul{
+
+    list-style-type: none;
+    display:flex;
+    justify-content:center;
+    
+}
+
+li{
+
+    
+    padding: 7px;
+    font-family: sans-serif;
+    font-weight:bold;
+    text-transform: hover;
+    
+}
+
+.hover-text{
+
+    color:black;
+    transition: color 0.3s ease;
+}
+
+
+.hover-text:hover {
+  color: #00aeff; /* Change text color when hovering */ 
+}
+
+.link{
+
+    color:black; 
+    text-decoration:none;
+}
+
+.link:hover{
+
+    color:#00aeff;
+}
+
+a{
+    text-decoration:none;
+    color:#fff;
+    
+}
+
+.main-nav{
+     background-color:#00aeff;
+     padding:7px; 
+     word-spacing:10px; 
+}
