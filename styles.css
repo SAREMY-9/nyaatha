@@ -123,8 +123,9 @@ a{
 
 .title-2{
 
-    font-family:Great Vibes;s
+    font-family: 'Dancing Script', cursive;  
     font-size:3rem;
+    font-weight:bolder;
 
 }
 
@@ -140,12 +141,94 @@ a{
 }
 
 
+.background-image {
+    background-image: url('images/backgroundimage.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 67vh;
+    width: 100%;
+    overflow: hidden; /* Prevents overflow from child elements */
+}
+
+.col-md-4{
+
+    opacity:85%;
+  
+}
 
 
 
+.background-image-2 {
+    background-image: url('images/Empowering\ Futures_\ The\ Impact\ of\ Education\ Donations\ on\ Global\ Change.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 70vh;
+    width: 100%;
+    overflow: hidden; /* Prevents overflow from child elements */
+    font-weight:bolder;
+}
+
+
+/* contact*/
 
 
 
+.donate-2{
 
+    background-color: rgb(255, 255, 255);
+    color:black;
+    padding:5px 10px;
+    font-size:1.5rem;
+  
+}
+
+.learn-2 {
+    font-size:1.5rem;
+    color: rgb(255, 255, 255);
+    text-decoration: none; /* Remove underline */
+    border: 2px solid rgb(71, 255, 111); /* Adds a 2px black border */
+    padding: 5px 10px; /* Adds space inside the border */
+  /*  border-radius: 5px; /* Optional: Rounds the corners of the border */
+    transition: background-color 0.3s ease, color 0.3s ease; /* Smooth transition for hover effect */
+}
+
+.learn-2:hover {
+    background-color: rgb(255, 255, 255); /* Change background color on hover */
+    color: rgb(0, 0, 0); /* Change text color on hover */
+}
+
+
+
+.div-2{
+
+    
+     margin:auto;
+    background-image: url('images/green.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 40vh;
+    width: 100%;
+    overflow: hidden; /* Prevents overflow from child elements */
+    font-weight:bolder;
+   
+
+}
+
+
+/*mission*/
+
+.background-image-3{
+    background-image: url('images/Empowering\ Futures_\ The\ Impact\ of\ Education\ Donations\ on\ Global\ Change.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 70vh;
+    width: 100%;
+    overflow: hidden; /* Prevents overflow from child elements */
+    font-weight:bolder;
+}
 
 
