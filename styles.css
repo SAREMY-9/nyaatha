@@ -99,8 +99,8 @@ a{
 
 .donate{
 
-    background-color: rgb(50, 153, 153);
-    color:black;
+    background-color: rgb(196, 0, 245);
+    color:rgb(255, 255, 255);
     padding:5px 10px;
     font-size:1.5rem;
   
@@ -108,16 +108,16 @@ a{
 
 .learn {
     font-size:1.5rem;
-    color: rgb(50, 153, 153);
+    color: rgb(226, 3, 255);
     text-decoration: none; /* Remove underline */
-    border: 2px solid rgb(15, 171, 199); /* Adds a 2px black border */
+    border: 2px solid rgb(255, 255, 255); /* Adds a 2px black border */ 
     padding: 5px 10px; /* Adds space inside the border */
   /*  border-radius: 5px; /* Optional: Rounds the corners of the border */
     transition: background-color 0.3s ease, color 0.3s ease; /* Smooth transition for hover effect */
 }
 
 .learn:hover {
-    background-color: rgb(28, 104, 117); /* Change background color on hover */
+    background-color: rgb(140, 0, 255); /* Change background color on hover */
     color: white; /* Change text color on hover */
 }
 
@@ -133,7 +133,7 @@ a{
 
 .title-3{
 
-    background-color: rgb(64, 147, 153);
+    background-color: rgb(183, 0, 255);
     color:black;
     padding:5px 10px;
     font-size:1.5rem;
@@ -232,3 +232,16 @@ a{
 }
 
 
+/*events*/
+
+
+.background-image-4 {
+    /*background-image: url('images/cons.jpeg'); */ 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 90vh;
+    width: 100%;
+    overflow: hidden; /* Prevents overflow from child elements */
+    font-weight:bolder;
+}
