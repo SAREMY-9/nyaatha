@@ -72,7 +72,7 @@ a{
 .div-1{
 
     
-     margin:auto;
+     height:60vh;
    
 
 }
@@ -261,3 +261,5 @@ a{
     overflow: hidden; /* Prevents overflow from child elements */
     font-weight:bolder;
 }
+
+
