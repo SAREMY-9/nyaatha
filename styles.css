@@ -257,7 +257,7 @@ a{
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    height: 112vh;
+    height: 115vh;
     width: 100%;
     overflow: hidden; /* Prevents overflow from child elements */
     font-weight:bolder;
