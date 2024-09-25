@@ -232,6 +232,7 @@ a{
 }
 
 
+
 /*events*/
 
 
@@ -256,7 +257,7 @@ a{
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    height: 110vh;
+    height: 112vh;
     width: 100%;
     overflow: hidden; /* Prevents overflow from child elements */
     font-weight:bolder;
