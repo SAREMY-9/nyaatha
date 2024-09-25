@@ -146,7 +146,7 @@ a{
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    height: 70vh;
+    height: 85vh;
     width: 100%;
     overflow: hidden; /* Prevents overflow from child elements */
 }
